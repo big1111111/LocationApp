@@ -110,7 +110,9 @@ public class VideoPlayerActivity extends AppCompatActivity {
     }
 
     public int getTime(){
+        int i=1;
         return time;
+
     }
 
     //get and set the
